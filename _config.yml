@@ -1,0 +1,16 @@
+title: GRE Sprint
+description: An 18-day, pacing-focused GRE course built from a real diagnostic — taught, graded, and tracked by Claude.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+heading_anchors: true
+color_scheme: dark
+
+aux_links:
+  GitHub: https://github.com/jacodantus-oss/GRE-Prep
+
+footer_content: "Built with Just the Docs · Taught by Claude"
+
+nav_sort: case_insensitive

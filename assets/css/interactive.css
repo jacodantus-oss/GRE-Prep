@@ -1,0 +1,76 @@
+/* Interactive curriculum widgets */
+.cc-widget {
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin: 0.75rem 0 1.75rem;
+}
+.cc-widget textarea {
+  width: 100%;
+  min-height: 9rem;
+  resize: vertical;
+  background: transparent;
+  color: inherit;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  border-radius: 6px;
+  padding: 0.6rem 0.75rem;
+  font: inherit;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+.cc-widget textarea:focus {
+  outline: none;
+  border-color: rgba(84, 140, 255, 0.8);
+}
+.cc-toolbar {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 0.6rem;
+}
+.cc-btn {
+  display: inline-block;
+  border: 1px solid rgba(128, 128, 128, 0.45);
+  border-radius: 6px;
+  background: rgba(128, 128, 128, 0.12);
+  color: inherit;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.85em;
+  cursor: pointer;
+}
+.cc-btn:hover { background: rgba(128, 128, 128, 0.25); }
+.cc-btn.cc-primary {
+  background: #2a5bd7;
+  border-color: #2a5bd7;
+  color: #fff;
+}
+.cc-btn.cc-primary:hover { background: #3567e6; }
+.cc-meta { font-size: 0.78em; opacity: 0.65; }
+.cc-label {
+  font-weight: 600;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.75;
+  margin-bottom: 0.5rem;
+}
+/* Quiz */
+.cc-quiz-box .cc-q { font-weight: 600; margin: 0.9rem 0 0.35rem; }
+.cc-quiz-box .cc-q:first-of-type { margin-top: 0; }
+.cc-opt { display: block; margin: 0.2rem 0; cursor: pointer; padding-left: 0.1rem; }
+.cc-opt input { margin-right: 0.5rem; }
+.cc-why {
+  font-size: 0.85em;
+  opacity: 0.9;
+  margin: 0.3rem 0 0.4rem 1.6rem;
+  padding-left: 0.6rem;
+  border-left: 2px solid rgba(128, 128, 128, 0.4);
+  display: none;
+}
+.cc-right { color: #3fb950; font-weight: 600; }
+.cc-wrong { color: #f85149; font-weight: 600; }
+.cc-score { font-weight: 700; margin-right: 0.5rem; }
+/* Dashboard */
+.cc-dash h4 { margin: 1rem 0 0.4rem; }
+.cc-dash table { font-size: 0.9em; }

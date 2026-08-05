@@ -1,0 +1,12 @@
+.DS_Store
+_site/
+.jekyll-cache/
+.sass-cache/
+Gemfile.lock
+
+# planning source docs — not part of the site
+HANDOFF.md
+GRE Chat Summary.md
+
+# local tooling
+.claude/
