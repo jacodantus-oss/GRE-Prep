@@ -33,7 +33,7 @@ content the diagnostic shows is already known.
 
 | Day | Date | Focus | Status |
 |:--|:--|:--|:--|
-| [1](day-01) | Aug 4 | Quant: Divisibility, Factors, Primes (the real gap — 0/1, 3m23s) + arithmetic speed strategy | Not started |
+| [1](day-01) | Aug 4 | Quant: Divisibility, Factors, Primes (the real gap — 0/1, 3m23s) + arithmetic speed strategy | Complete |
 | [2](day-02) | Aug 5 | Quant: Arithmetic Operations, Percents/Ratios reinforcement + backsolving & plugging in | Not started |
 | [3](day-03) | Aug 6 | Quant: Exponents & Radicals (rushing, not a gap — deliberate slow-down) + estimation strategy | Not started |
 | [4](day-04) | Aug 7 | Verbal: Vocab system + deck 1 · Text Completion strategy (blank-by-blank, signal words) | Not started |

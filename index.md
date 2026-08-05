@@ -31,7 +31,7 @@ Every module here is built around that diagnosis. Full detail: [How It Works](ho
 
 | Course | Modules | Status | Progress |
 |:-------|:--------|:-------|:---------|
-| [GRE Sprint](courses/gre-prep/) | 18 days | In progress | 0/18 |
+| [GRE Sprint](courses/gre-prep/) | 18 days | In progress | 1/18 |
 
 **Pacing:** ~1 hour/day, every day, Aug 4 → Aug 22.
 

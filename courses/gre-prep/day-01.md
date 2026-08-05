@@ -133,5 +133,16 @@ trial division? Something else?) One or two sentences is enough.
 
 ## Log
 
-_Filled in after grading: quiz score, Official Guide accuracy/timing, and the
-verdict._
+**Aug 4, 2026 — Graded.**
+
+- **Check quiz:** 5/6.
+- **Official Guide:** this edition didn't have a section labeled "Properties
+  of Numbers" — did 10 general Arithmetic questions instead, 9/10, with the
+  one miss a misread rather than a conceptual error. (Note for later days:
+  assignments will describe content, not guess exact chapter/section names.)
+- **Reflection:** self-diagnosed the baseline miss as "a lot of listing
+  multiples, and testing by trial" — exactly the habit prime factorization
+  replaces. Correct read, and it's the right target to keep watching for
+  under time pressure on Day 2+.
+
+**Verdict: PASS.** Strong first day — ready to advance.
