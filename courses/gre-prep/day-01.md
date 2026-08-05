@@ -144,5 +144,11 @@ trial division? Something else?) One or two sentences is enough.
   multiples, and testing by trial" — exactly the habit prime factorization
   replaces. Correct read, and it's the right target to keep watching for
   under time pressure on Day 2+.
+- **Quiz miss (Q5, "smallest n such that 14n divisible by 12"):** answered 2,
+  reasoning "14 and 12 are both divisible by 2" — that's shared-factor logic
+  (GCF direction), not missing-factor logic (what 12's factorization needs
+  that 14's doesn't supply). Self-corrected accurately after reading the
+  explanation. **Pattern to watch:** "kn divisible by m, find smallest n"
+  problems specifically — check this doesn't recur on Days 2-3.
 
 **Verdict: PASS.** Strong first day — ready to advance.
