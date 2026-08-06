@@ -210,5 +210,22 @@ where you weren't sure whether it applied?
 
 ## Log
 
-_Filled in after grading: practice set & check scores, timing, and the
-verdict._
+**Aug 6, 2026 — Graded.**
+
+- **Practice set:** 12/12 in 15 minutes — under the 18-minute budget with a
+  perfect score.
+- **Check quiz:** not logged (score missing from the record) — log it when
+  convenient, but the reflection below already shows it went well.
+- **Backsolving:** used on Q7, 10, 11, and 12 — all genuinely backsolve-shaped
+  questions, including Q12 (the hardest one), where it was explicitly called
+  out as the thing that unlocked the question. On the Check quiz's reverse-
+  percent problem, noted that solving directly "would have taken a lot
+  longer" — the strategy is landing, not just being applied mechanically.
+- **Self-caught error (Check quiz, boys:girls ratio):** solved for boys
+  instead of girls, caught it, and converted correctly — no actual miss, but
+  worth naming next to Day 1's "shared factor vs. missing factor" catch:
+  both were moments of computing before fully confirming what the question
+  asked for. Two data points, not yet a pattern — but worth a half-second
+  "what exactly am I solving for" check on Day 3.
+
+**Verdict: PASS.** Faster and cleaner than Day 1 — ready to advance.
