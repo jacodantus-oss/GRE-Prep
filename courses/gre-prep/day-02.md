@@ -214,8 +214,7 @@ where you weren't sure whether it applied?
 
 - **Practice set:** 12/12 in 15 minutes — under the 18-minute budget with a
   perfect score.
-- **Check quiz:** not logged (score missing from the record) — log it when
-  convenient, but the reflection below already shows it went well.
+- **Check quiz:** 5/6 (logged after the fact).
 - **Backsolving:** used on Q7, 10, 11, and 12 — all genuinely backsolve-shaped
   questions, including Q12 (the hardest one), where it was explicitly called
   out as the thing that unlocked the question. On the Check quiz's reverse-
