@@ -185,5 +185,23 @@ review across everything from this week rather than split by sub-topic.
 
 ## Log
 
-_Filled in after grading: Part A/B scores, cumulative Official Guide result,
-and the verdict._
+**Aug 7, 2026 — Graded.**
+
+- **Part A (untimed):** 5/6 — self-described "dumb mistake," not a
+  conceptual gap.
+- **Part B (timed, 75s each):** 6/6 — perfect, under real time pressure.
+  This is the day's whole hypothesis confirmed: the baseline issue was
+  rushing, not knowledge, and a deliberate slow first pass carried into
+  clean speed on the second. Backsolving used in both passes voluntarily.
+- **Cumulative Arithmetic mini-exam (remaining Official Guide questions,
+  Days 1-3 combined):** 8/9 — "tricked by the absolute value on negatives."
+- **Pattern to note:** the √(a²)=|a| / multi-root trap was reviewed today
+  and handled correctly on Part B's drilled version of it, but still caused
+  the one miss on the Official Guide set minutes later, in an unfamiliar
+  presentation. Recognizing a trap in a just-reviewed drill isn't the same
+  as recognizing it on sight in a novel question — worth a few more spaced
+  reps of this specific trap (not a re-teach) over the next few days rather
+  than assuming Part B's clean score means it's fully locked in.
+
+**Verdict: PASS.** Strongest day yet — the Part A→B jump is exactly the
+outcome this format was built to test for.

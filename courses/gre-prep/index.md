@@ -50,7 +50,7 @@ needs section-length practice to train, which short drills can't provide.
 |:--|:--|:--|:--|
 | [1](day-01) | Aug 4 | Quant: Divisibility, Factors, Primes (the real gap — 0/1, 3m23s) + arithmetic speed strategy | Complete |
 | [2](day-02) | Aug 5 | Quant: Arithmetic Operations, Percents/Ratios reinforcement + backsolving & plugging in | Complete |
-| [3](day-03) | Aug 6 | Quant: Exponents & Radicals (rushing, not a gap — deliberate slow-down) + estimation strategy | Not started |
+| [3](day-03) | Aug 6 | Quant: Exponents & Radicals (rushing, not a gap — deliberate slow-down) + estimation strategy | Complete |
 | [4](day-04) | Aug 7 | Verbal: Vocab system + deck 1 · Text Completion strategy (blank-by-blank, signal words) | Not started |
 | [5](day-05) | Aug 8 | Verbal: Sentence Equivalence strategy (paired-answer logic, POE without knowing every word) | Not started |
 | [6](day-06) | Aug 9 | **Checkpoint 1** — clean Reading Comp diagnostic (baseline was glitch-depressed) | Not started |
