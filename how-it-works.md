@@ -36,26 +36,49 @@ re-teach math or vocabulary from scratch.
 
 ## Structure of each day
 
+**Days 1-3 (~1 hour):**
+
 1. **Review** — a short rules/concepts refresher for the day's topic (skip if
    already solid; the point is recall, not re-learning).
 2. **Strategy** — a curated resource (article/video) plus the key takeaway in
    1-2 sentences, focused on speed.
-3. **Practice** — a timed problem set (Official Guide assignment and/or
-   questions built for this module), with an instant-graded check for
-   objective items.
+3. **Practice** — a timed problem set (self-generated and/or curated), with
+   an instant-graded check for objective items.
 4. **Log** — your score and pacing get recorded on the day's page; patterns
    across days (a recurring rushed-guess habit, a concept that keeps
    tripping you up) get called out explicitly rather than treated as
    one-offs.
 
+**Day 4 onward (~2 hours)** — the same four steps above, plus a second hour
+added deliberately as *practice volume*, not new topics:
+
+5. **Daily vocab** (~15 min, every day) — vocabulary is the one area here
+   that tracks almost linearly with exposure reps, unlike quant where the
+   ceiling is pacing/traps rather than missing knowledge.
+6. **Reading Comp reps** (~10-15 min, most days) — same reps-over-strategy
+   logic, spread out instead of concentrated on 2-3 dedicated days.
+7. **Cumulative timed drill** (~35-40 min) — a mixed set covering everything
+   learned so far, timed at real GRE section pace. This is what actually
+   trains pacing-under-pressure; short topic drills can't. Geometry and Data
+   Analysis (already 100% on the baseline) get maintained through these
+   mixed sets rather than a dedicated review day.
+
+The switch to 2 hours is a real trade-off against time for manuscripts and
+application statements — worth watching, and only worth it because
+section-length practice specifically requires section-length time.
+
 ## Checkpoints
 
-- **Clean Reading Comp re-check** (early) — the baseline RC score (31%) was
+- **Clean Reading Comp re-check** (Day 6) — the baseline RC score (31%) was
   depressed by a Manhattan Prep rendering glitch that showed ~5 questions
   referencing a missing passage. True RC level gets established on clean
   material before deciding how much time it needs.
-- **PowerPrep dress rehearsal (Aug 18)** — the most accurate score predictor
-  available, run under real timing conditions, four days before the exam.
+- **Second full-length diagnostic** (Day 9, Aug 12) — a free third-party
+  test (not the reserved ETS PowerPrep) to calibrate real pacing partway
+  through, so Aug 18 isn't the only data point going into the real exam.
+- **PowerPrep dress rehearsal** (Day 15, Aug 18) — the most accurate score
+  predictor available, run under real timing conditions, four days before
+  the exam.
 
 ## Doing the work on the site
 

@@ -8,7 +8,7 @@ nav_order: N
 
 # Day N: TOPIC
 
-**Date:** DATE · **Time budget:** ~1 hour
+**Date:** DATE · **Time budget:** ~2 hours (Day 4+; Days 1-3 were ~1 hour)
 
 ## Review
 
@@ -20,7 +20,13 @@ Curated resource (link-verified) + the key speed-strategy takeaway in 1-2 senten
 
 ## Practice
 
-Timed problem set: source (Official Guide reference and/or generated), question count, time budget.
+Timed problem set: self-generated and/or curated (Official Guide books aren't
+topic-isolated — reserved for cumulative mini-exams instead), question count,
+time budget.
+
+<!-- Day 4+: also include daily vocab (~15min), RC reps most days (~10-15min),
+     and a cumulative timed drill (~35-40min, real section pace, mixed topics
+     covered so far) -->
 
 <!-- answer boxes / quiz widgets go here -->
 
