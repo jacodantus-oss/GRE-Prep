@@ -59,15 +59,100 @@ choice matches.
 
 ## Practice
 
-**Official Guide:** open *Official GRE Quantitative Reasoning Practice
-Questions* to the Arithmetic chapter and find **15 questions covering order
-of operations, percents, and ratios** (whatever they're labeled in your
-edition — content matters, not the section name). This time, **time
-yourself**: cap each question at 90 seconds, 22-23 minutes total. On at
-least 3 questions, deliberately try backsolving or picking numbers instead
-of solving directly, even if the direct method feels faster at first.
+Your Official Guide book doesn't split into topic-isolated sections (it's
+one 20-question Arithmetic set covering everything) — so today's practice is
+below, built for exactly today's topics. Once Day 3 (the last Arithmetic
+sub-topic) is done, the remaining Official Guide Arithmetic questions become
+a **cumulative mini-exam** covering Days 1-3 together, timed as one block —
+see the note at the end of Day 3 when it's built. For more volume than the
+12 below, [Magoosh's GRE Arithmetic practice](https://magoosh.com/gre/gre-arithmetic-overview-and-practice/)
+has a few extra worked percent/ratio problems.
 
-<div class="cc-answer" data-id="gre-day02-og" data-title="Official Guide set — results, timing & which you backsolved" data-group="gre-day02"></div>
+**Practice set:** 12 questions, timed — cap each at 90 seconds (18 minutes
+total). On at least 3, deliberately try backsolving or picking numbers
+instead of solving directly, even if the direct method feels faster at
+first.
+
+<script type="application/json" class="cc-quiz" data-id="gre-day02-practice" data-title="Day 2 Practice Set — Operations, Percents & Ratios">
+{
+  "questions": [
+    {
+      "q": "Evaluate: 15 − 3 × (2 + 4) ÷ 9",
+      "options": ["9", "11", "13", "15", "17"],
+      "answer": 2,
+      "why": "Parentheses: (2+4)=6. Multiply: 3×6=18. Divide: 18÷9=2. Subtract: 15−2=13."
+    },
+    {
+      "q": "Evaluate: (−3)² − 2×(−4)",
+      "options": ["1", "7", "17", "25", "-17"],
+      "answer": 2,
+      "why": "(−3)² = 9 (the negative is inside the parentheses, so it's squared too). 2×(−4) = −8. 9 − (−8) = 17."
+    },
+    {
+      "q": "Evaluate: 20 ÷ 4 × 5 − 3²",
+      "options": ["1", "7", "16", "20", "29"],
+      "answer": 2,
+      "why": "Exponent first: 3²=9. Multiply/divide left to right: 20÷4=5, then 5×5=25. Subtract: 25−9=16."
+    },
+    {
+      "q": "What is 35% of 240?",
+      "options": ["70", "74", "80", "84", "90"],
+      "answer": 3,
+      "why": "0.35 × 240 = 84. (Fast route: 10% of 240 is 24, so 35% = 3×24 + half of 24 = 72+12 = 84.)"
+    },
+    {
+      "q": "60 is what percent of 150?",
+      "options": ["25%", "30%", "40%", "45%", "60%"],
+      "answer": 2,
+      "why": "60/150 = 0.40 = 40%. \"X is what percent of Y\" always means X/Y."
+    },
+    {
+      "q": "A price of $150 is discounted by 30%, then the discounted price is increased by 10%. What is the final price?",
+      "options": ["$100.50", "$105", "$112.50", "$115.50", "$120"],
+      "answer": 3,
+      "why": "150 × 0.70 = 105. 105 × 1.10 = 115.50. Multiply the successive factors — don't combine −30%+10% into −20%."
+    },
+    {
+      "q": "If a jacket's price after a 25% discount is $60, what was the original price?",
+      "options": ["$70", "$75", "$80", "$85", "$90"],
+      "answer": 2,
+      "why": "60 is 75% of the original: original = 60/0.75 = $80. Backsolve check: 80 × 0.75 = 60. ✓ (Try the middle answer choice first next time — it lands here in one step.)"
+    },
+    {
+      "q": "If a number x is 40% greater than a number y, y is what percent of x?",
+      "options": ["60%", "66.7%", "71.4%", "75%", "80%"],
+      "answer": 2,
+      "why": "x = 1.4y, so y/x = 1/1.4 = 5/7 ≈ 71.4%. Easy trap: this is not simply 100%−40%=60% — that logic only works in the other direction (x as a % of y)."
+    },
+    {
+      "q": "The ratio of red to blue marbles is 4:7. If there are 21 blue marbles, how many red marbles are there?",
+      "options": ["9", "12", "14", "15", "16"],
+      "answer": 1,
+      "why": "7 parts = 21 marbles, so 1 part = 3. Red = 4 parts × 3 = 12."
+    },
+    {
+      "q": "A recipe calls for flour and sugar in a ratio of 5:2. If you use 3 cups of sugar, how many cups of flour do you need?",
+      "options": ["6", "6.5", "7", "7.5", "8"],
+      "answer": 3,
+      "why": "2 parts = 3 cups, so 1 part = 1.5. Flour = 5 parts × 1.5 = 7.5 cups."
+    },
+    {
+      "q": "Two numbers are in the ratio 2:3. If their sum is 65, what is the larger number?",
+      "options": ["26", "30", "35", "39", "42"],
+      "answer": 3,
+      "why": "2+3 = 5 parts. 65 ÷ 5 = 13 per part. Larger = 3 × 13 = 39."
+    },
+    {
+      "q": "The ratio of boys to girls in a class is 5:6. After 4 more girls join, the ratio becomes 5:8. How many boys are in the class?",
+      "options": ["8", "10", "12", "15", "20"],
+      "answer": 1,
+      "why": "Let boys=5k, girls=6k. (6k+4)/5k = 8/5 → 30k+20 = 40k → k=2. Boys = 5k = 10. (Could also backsolve from the answer choices, testing each against both ratios.)"
+    }
+  ]
+}
+</script>
+
+<div class="cc-answer" data-id="gre-day02-notes" data-title="Practice notes — timing & which you backsolved" data-group="gre-day02"></div>
 
 **Check:** 6 questions. Q5 is built for backsolving — try it that way before
 falling back to algebra.
@@ -121,9 +206,9 @@ solving directly: did it feel faster, slower, or about the same? Any moment
 where you weren't sure whether it applied?
 </div>
 
-<div class="cc-submit" data-group="gre-day02" data-title="Day 2 — Official Guide results & backsolving reflection"></div>
+<div class="cc-submit" data-group="gre-day02" data-title="Day 2 — Practice results & backsolving reflection"></div>
 
 ## Log
 
-_Filled in after grading: quiz score, Official Guide accuracy/timing, and the
+_Filled in after grading: practice set & check scores, timing, and the
 verdict._

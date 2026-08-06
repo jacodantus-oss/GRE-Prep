@@ -21,10 +21,14 @@ re-teach math or vocabulary from scratch.
   quant and verbal module includes the shortcut: estimation, backsolving,
   process of elimination, answer-choice logic — ways to get the right answer
   without fully working every step.
-- **Real questions.** Practice is pulled from the official ETS *Official
-  Guide* practice-question volumes (verbal and quant — both owned), generated
-  questions modeled on real GRE item types, and curated free resources.
-  Official ETS PowerPrep tests are reserved for the Aug 18 dress rehearsal —
+- **Real questions.** The Official Guide books (verbal and quant, both owned)
+  don't split into topic-isolated sections the way each day here does — so
+  **daily practice is self-generated GRE-style questions and curated free
+  resources**, topic-matched to that day. The Official Guide gets used for
+  **cumulative mini-exams** at the end of each broader content block (e.g.
+  all of Arithmetic once its sub-topics are done) — real ETS questions, just
+  assigned at the grain the book actually supports. Official ETS PowerPrep
+  tests are reserved for the Aug 18 dress rehearsal —
   not spent early.
 - **Everything is timed.** Pacing discipline is trained explicitly, not left
   implicit, because it's the actual gap between the baseline score and the
