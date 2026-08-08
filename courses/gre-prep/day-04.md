@@ -419,5 +419,29 @@ using structure/polarity/word parts instead?
 
 ## Log
 
-_Filled in after grading: TC, vocab, RC, and cumulative drill scores, timing,
-and the verdict._
+**Aug 8, 2026 — Graded.**
+
+- **Vocab Deck 1 Check:** 15/15 — perfect, and fastest of the day (fresh off
+  reading the deck).
+- **Reading Comp:** 3/3 — went smoothly, helped by real subject familiarity
+  with the passage's topic.
+- **Cumulative timed drill:** 10/10 — started slow ("regained my rhythm from
+  yesterday") but accuracy held throughout; the slow start looks like normal
+  first-quant-of-the-day warm-up, not a gap.
+- **TC single-blank quiz:** not logged — log it when convenient so the
+  record's complete; the reflection below already gives a good read on how
+  it went.
+- **Reflection:** predicting before peeking worked when a clean prediction
+  came fast — "when I found a word which matched my prediction I was not
+  looking at the other 4 answers," which is exactly the point of the
+  technique. Also flagged sentences where forming a prediction was hard —
+  normal at first exposure, worth continued deliberate practice on Day 5
+  (Sentence Equivalence uses the same muscle). Two personal techniques
+  worth naming, since they're valid extensions of what was taught, not just
+  applications of it: recognizing "hackneyed" by sound-association rather
+  than formal word-roots, and using the **polarity split across a blank's
+  three choices** (e.g. two negative-leaning, one positive) as a fast
+  elimination cue on the worked examples.
+
+**Verdict: PASS.** Strong first Verbal day — vocab, RC, and cumulative
+Quant maintenance all landed clean.
