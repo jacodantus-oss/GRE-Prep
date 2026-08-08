@@ -428,9 +428,9 @@ using structure/polarity/word parts instead?
 - **Cumulative timed drill:** 10/10 — started slow ("regained my rhythm from
   yesterday") but accuracy held throughout; the slow start looks like normal
   first-quant-of-the-day warm-up, not a gap.
-- **TC single-blank quiz:** not logged — log it when convenient so the
-  record's complete; the reflection below already gives a good read on how
-  it went.
+- **TC single-blank quiz:** 6/8 (logged after the fact) — the clear soft
+  spot of the day, and it lines up exactly with the reflection: solid where
+  a prediction came easily, shakier on the two it didn't.
 - **Reflection:** predicting before peeking worked when a clean prediction
   came fast — "when I found a word which matched my prediction I was not
   looking at the other 4 answers," which is exactly the point of the
