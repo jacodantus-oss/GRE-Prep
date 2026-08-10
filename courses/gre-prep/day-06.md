@@ -286,6 +286,27 @@ finish carefully?
 
 ## Log
 
-_Filled in after grading: RC diagnostic score (the real number this
-checkpoint exists to produce), vocab/cumulative scores, and what it means
-for how much time RC gets in the remaining days._
+**Aug 10, 2026 — Graded.**
+
+- **RC diagnostic: 8/8, in ~12 minutes** (well under the ~35-40 min
+  budget). **Vocab review:** 8/8. **Cumulative drill:** 10/10.
+- **This is the number the checkpoint exists to produce, and it's a real
+  finding:** true RC ability is strong. The baseline's 31% was almost
+  entirely the platform glitch, not a real skill gap — confirmed now on
+  clean, unfamiliar-domain material under realistic timing. Applied the
+  Day 4 TC predict-first method to RC too, unprompted ("I would predict an
+  answer to the question before reading answer choices"), and only
+  re-read to confirm afterward, not to search — a genuinely efficient
+  reading process.
+- **Implication for the remaining schedule:** Day 10 (RC strategy) and
+  Day 11 (RC timed practice) don't need to be remediation — they can lean
+  toward maintenance and harder material instead, freeing some of that
+  time for Quant/AWA if needed. Worth deciding explicitly when Day 10
+  comes up rather than assuming.
+- **Also raised today:** the last several days have felt too easy
+  (fast, little doubt) — a fair, separate signal from the RC finding
+  above. Difficulty gets recalibrated toward real GRE (and above) starting
+  Day 7.
+
+**Verdict: PASS.** Checkpoint 1 did its job — RC doesn't need to be over-
+invested in, exactly the question this day was built to answer.

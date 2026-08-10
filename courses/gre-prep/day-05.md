@@ -336,5 +336,23 @@ didn't fully know because it had no partner?
 
 ## Log
 
-_Filled in after grading: SE, vocab, RC, and cumulative drill scores,
-timing, and the verdict._
+**Aug 9, 2026 — Graded.**
+
+- **SE practice:** 8/8. **Vocab review:** 7/8. **RC:** 3/3. **Cumulative
+  drill:** 9/10, one miss, finished well under time.
+- **SE reflection — real, valid critique of the material itself:** every
+  correct answer landed at the first option, and the "unpaired" distractor
+  words were sometimes close enough to the real pair to cause confusion.
+  Both are authoring flaws, not performance issues — fixed starting Day 6
+  (answer positions now spread across all slots; RC passages moved outside
+  your field since you noted the replication-crisis passage needed no real
+  reading to answer). The "pairs pre-given instead of found" limitation is
+  a widget constraint — queued for a real fix before SE reappears on Day 11.
+- **Vocab:** forgot a couple of exact definitions from the day before but
+  recovered them via context clues — that's actually the more transferable
+  skill (real GRE vocab is rarely tested as bare definitions), so this
+  isn't a concern.
+
+**Verdict: PASS.** Also worth noting: today's feedback (on both the answer
+clustering and passage relevance) got acted on the same day rather than
+carried forward as a known issue — the fixes are already live in Day 6.

@@ -52,8 +52,8 @@ needs section-length practice to train, which short drills can't provide.
 | [2](day-02) | Aug 5 | Quant: Arithmetic Operations, Percents/Ratios reinforcement + backsolving & plugging in | Complete |
 | [3](day-03) | Aug 6 | Quant: Exponents & Radicals (rushing, not a gap — deliberate slow-down) + estimation strategy | Complete |
 | [4](day-04) | Aug 7 | Verbal: Vocab system + deck 1 · Text Completion strategy (blank-by-blank, signal words) | Complete |
-| [5](day-05) | Aug 8 | Verbal: Sentence Equivalence strategy (paired-answer logic, POE without knowing every word) | Not started |
-| [6](day-06) | Aug 9 | **Checkpoint 1** — clean Reading Comp diagnostic (baseline was glitch-depressed) | Not started |
+| [5](day-05) | Aug 8 | Verbal: Sentence Equivalence strategy (paired-answer logic, POE without knowing every word) | Complete |
+| [6](day-06) | Aug 9 | **Checkpoint 1** — clean Reading Comp diagnostic (baseline was glitch-depressed) | Complete |
 | [7](day-07) | Aug 10 | Quant: Algebra review (60% baseline) + linear equations/inequalities shortcuts | Not started |
 
 ### Week 2 — AWA, weak-area drilling, mixed practice (Aug 11–17)
