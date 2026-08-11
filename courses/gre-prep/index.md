@@ -54,15 +54,15 @@ needs section-length practice to train, which short drills can't provide.
 | [4](day-04) | Aug 7 | Verbal: Vocab system + deck 1 · Text Completion strategy (blank-by-blank, signal words) | Complete |
 | [5](day-05) | Aug 8 | Verbal: Sentence Equivalence strategy (paired-answer logic, POE without knowing every word) | Complete |
 | [6](day-06) | Aug 9 | **Checkpoint 1** — clean Reading Comp diagnostic (baseline was glitch-depressed) | Complete |
-| [7](day-07) | Aug 10 | Quant: Algebra review (60% baseline) + linear equations/inequalities shortcuts | Not started |
+| [7](day-07) | Aug 10 | Quant: Algebra review (60% baseline) + linear equations/inequalities shortcuts | Complete |
 
 ### Week 2 — AWA, weak-area drilling, mixed practice (Aug 11–17)
 
 | Day | Date | Focus | Status |
 |:--|:--|:--|:--|
-| [8](day-08) | Aug 11 | AWA: Issue essay template + 1 timed practice essay | Not started |
+| [8](day-08) | Aug 11 | Algebra repass (factoring, inequality sign-flip) · Vocab deck 2 (moved up from Day 10) · AWA: Issue essay template + 1 timed practice essay | Not started |
 | [9](day-09) | Aug 12 | **Second full diagnostic** — free third-party test, real timing (pacing check before Aug 18; doesn't touch reserved ETS PowerPrep) | Not started |
-| [10](day-10) | Aug 13 | Verbal: Vocab deck 2 · Reading Comp strategy (passage mapping, question-type triage) | Not started |
+| [10](day-10) | Aug 13 | Verbal: Reading Comp strategy (passage mapping, question-type triage) — vocab deck 2 moved to Day 8, so this is RC-focused; may lean toward maintenance given Checkpoint 1's strong result | Not started |
 | [11](day-11) | Aug 14 | Verbal: RC timed practice + mixed Short Verbal drilling | Not started |
 | [12](day-12) | Aug 15 | Quant: Full timed mixed set (20q/35min) — real section pacing | Not started |
 | [13](day-13) | Aug 16 | AWA: Argument essay template + 1 timed practice essay · Vocab deck 3 | Not started |

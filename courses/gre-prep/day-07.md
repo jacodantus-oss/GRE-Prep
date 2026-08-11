@@ -286,5 +286,21 @@ squared an inequality without checking for extraneous solutions?
 
 ## Log
 
-_Filled in after grading: algebra, vocab, and cumulative drill scores,
-timing, and the verdict._
+**Aug 11, 2026 — Graded.**
+
+- **Algebra practice:** 8/10, on two attempts (same score both times) —
+  consistent, not a fluke. **Vocab precision round:** 8/8, "flew through it."
+  **Cumulative drill:** 10/10, but ran ~2 minutes over the 15-minute budget.
+- **Two real, named gaps: factoring quadratics and knowing when to flip an
+  inequality sign.** Not vague — self-diagnosed precisely ("I forgot how to
+  factor quadratics, so I had to reteach myself"; "still a little unclear on
+  when to flip the sign"). Backsolving continued to work well whenever it
+  applied, consistent with Day 2.
+- **Plan change based on this:** rather than wait for Day 14's general
+  review day, Day 8 opens with a focused repass of exactly these two topics
+  before AWA — see Day 8. Also moving Vocab Deck 2 up to Day 8 (from Day 10)
+  since Deck 1 is solid ("ready to move on to a new set of words").
+
+**Verdict: PASS**, with two specific carry-forward items instead of a vague
+"needs more practice." Cumulative drill running long under harder content
+is worth watching, not fixing yet — one data point.
