@@ -60,7 +60,7 @@ needs section-length practice to train, which short drills can't provide.
 
 | Day | Date | Focus | Status |
 |:--|:--|:--|:--|
-| [8](day-08) | Aug 11 | Algebra repass (factoring, inequality sign-flip) · Vocab deck 2 (moved up from Day 10) · AWA: Issue essay template + 1 timed practice essay | Not started |
+| [8](day-08) | Aug 11 | Algebra repass (factoring, inequality sign-flip) · Vocab deck 2 (moved up from Day 10) · AWA: Issue essay template + 1 timed practice essay | Complete |
 | [9](day-09) | Aug 12 | **Second full diagnostic** — free third-party test, real timing (pacing check before Aug 18; doesn't touch reserved ETS PowerPrep) | Not started |
 | [10](day-10) | Aug 13 | Verbal: Reading Comp strategy (passage mapping, question-type triage) — vocab deck 2 moved to Day 8, so this is RC-focused; may lean toward maintenance given Checkpoint 1's strong result | Not started |
 | [11](day-11) | Aug 14 | Verbal: RC timed practice + mixed Short Verbal drilling | Not started |

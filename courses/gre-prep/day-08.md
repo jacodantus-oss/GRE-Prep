@@ -302,5 +302,55 @@ hardest to hit — the concrete example, or the counterargument paragraph?
 
 ## Log
 
-_Filled in after grading: repass and vocab scores, essay verdict against
-the template's five parts, and what's carried forward._
+**Aug 12, 2026 — Graded.**
+
+- **Algebra repass:** 6/6 — both named Day 7 gaps (factoring, inequality
+  sign-flips) look resolved for now; the real test is whether it holds up
+  under later cumulative drills, not this one clean pass.
+- **Vocab Deck 2:** 14/15 — expected on first exposure to new words, not a
+  concern.
+
+**AWA Issue essay — walked against the five-part template:**
+- **Intro:** takes a position, but it drifts — opens with a firm "This is
+  not the case" (disagreeing with prioritizing accessibility) and lands on
+  a synthesis conclusion ("prioritize accessibility efficiently"). Not
+  wrong to end up nuanced, but the intro should state the *qualified*
+  position up front rather than arrive at it by the end.
+- **Body 1 (the library / *Count of Monte Cristo* example): genuinely
+  strong** — specific, concrete, numbers included (100 copies), exactly
+  the fix this template was built for.
+- **Body 2: the self-identified weak point, and the self-diagnosis is
+  correct.** It extends body 1's library scenario ("Returning to the
+  previous example") instead of introducing an independent second example
+  — which is precisely the "circular" pattern the baseline was dinged for.
+  A fix for next time: pick a completely different domain for body 2. For
+  example — *"An emergency response agency that dispatches equally
+  equipped teams to every call, regardless of severity, in the name of
+  equal access, could delay care to life-threatening emergencies while
+  routine calls receive equal priority — an efficiency cost that, in this
+  domain, directly endangers the people accessibility is meant to serve."*
+  Different institution, different mechanism, same thesis — that's what
+  makes body 2 additive instead of repetitive.
+- **Body 3 (complexity — schools/children):** does real work — a genuine
+  counterargument, taken seriously, then answered. This is also, in
+  effect, the independent second example body 2 was missing; worth
+  noticing that the raw material for a strong body 2 was already in the
+  essay, just placed in body 3 instead.
+- **Conclusion:** synthesizes without copy-pasting the intro — good.
+- **Proofreading:** one typo ("dissapear") in a load-bearing sentence — the
+  same category of error the baseline essay had ("Showinhg"). Worth
+  actually using the last-2-minutes proofread step, not just knowing it
+  exists.
+
+**Verdict: PASS**, and a real jump from the baseline — concrete examples
+and the complexity paragraph are both landing. Body-2 independence and
+proofreading are the two carry-forward items for the Day 13 Argument essay.
+
+**Reflection notes worth keeping:** the flip-proof inequality method was
+used selectively, not dogmatically — "there were some occasions in which
+flipping was a more efficient use of my time, so I defaulted to it." That's
+the right way to hold a technique — as a tool, not a rule. On pacing:
+noted needing to structure ideas faster to leave more time for writing/
+editing — worth trying a 2-3 minute bullet-point outline (one phrase per
+template slot: thesis, example 1, example 2, counterargument) before
+writing prose, on Day 13.
