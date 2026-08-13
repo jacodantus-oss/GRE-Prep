@@ -61,18 +61,18 @@ needs section-length practice to train, which short drills can't provide.
 | Day | Date | Focus | Status |
 |:--|:--|:--|:--|
 | [8](day-08) | Aug 11 | Algebra repass (factoring, inequality sign-flip) · Vocab deck 2 (moved up from Day 10) · AWA: Issue essay template + 1 timed practice essay | Complete |
-| [9](day-09) | Aug 12 | **Second full diagnostic** — free third-party test, real timing (pacing check before Aug 18; doesn't touch reserved ETS PowerPrep) | Not started |
-| [10](day-10) | Aug 13 | Verbal: Reading Comp strategy (passage mapping, question-type triage) — vocab deck 2 moved to Day 8, so this is RC-focused; may lean toward maintenance given Checkpoint 1's strong result | Not started |
+| [9](day-09) | Aug 12 | **Checkpoint 2** — second full diagnostic, free third-party test, real timing (doesn't touch reserved ETS PowerPrep) | Complete |
+| [10](day-10) | Aug 13 | Verbal: Reading Comp strategy (passage mapping, question-type triage) — full version, not maintenance; Checkpoint 2 showed RC still needs real work (57%) | Not started |
 | [11](day-11) | Aug 14 | Verbal: RC timed practice + mixed Short Verbal drilling | Not started |
-| [12](day-12) | Aug 15 | Quant: Full timed mixed set (20q/35min) — real section pacing | Not started |
+| [12](day-12) | Aug 15 | Quant: **Quantity Comparison strategy** (gap found at Checkpoint 2 — never taught) + full timed mixed set (20q/35min), real section pacing | Not started |
 | [13](day-13) | Aug 16 | AWA: Argument essay template + 1 timed practice essay · Vocab deck 3 | Not started |
-| [14](day-14) | Aug 17 | Review day: fix whatever the logged data shows is weakest, no new topics + 1 extra timed essay (Hour 2) | Not started |
+| [14](day-14) | Aug 17 | Review day: **Geometry & Data Analysis prioritized** (both regressed from 100% baseline to 86%/75% at Checkpoint 2 — zero dedicated instruction so far) + whatever else the logged data shows is weakest + 1 extra timed essay (Hour 2) | Not started |
 
 ### Week 3 — Dress rehearsal & taper (Aug 18–22)
 
 | Day | Date | Focus | Status |
 |:--|:--|:--|:--|
-| [15](day-15) | Aug 18 | **Checkpoint 2** — official ETS PowerPrep full-length, real timing | Not started |
+| [15](day-15) | Aug 18 | **Checkpoint 3** — official ETS PowerPrep full-length, real timing | Not started |
 | [16](day-16) | Aug 19 | Dress rehearsal review: targeted fixes only, on what actually showed up | Not started |
 | [17](day-17) | Aug 20 | Light review: vocab final pass, AWA template refresh, confidence practice + 1 extra timed essay (Hour 2) | Not started |
 | [18](day-18) | Aug 21 | Final light warm-up (10-15 easy/medium mixed questions) — no new content | Not started |

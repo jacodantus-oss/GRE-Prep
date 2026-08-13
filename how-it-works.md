@@ -60,8 +60,10 @@ added deliberately as *practice volume*, not new topics:
 7. **Cumulative timed drill** (~35-40 min) — a mixed set covering everything
    learned so far, timed at real GRE section pace. This is what actually
    trains pacing-under-pressure; short topic drills can't. Geometry and Data
-   Analysis (already 100% on the baseline) get maintained through these
-   mixed sets rather than a dedicated review day.
+   Analysis were assumed to need maintenance-only, based on a 100% baseline
+   on a very small sample (5 and 3 questions) — Checkpoint 2 showed both had
+   actually dropped (86%, 75%) with only light cumulative-drill exposure, so
+   Day 14 now gives them real dedicated review instead.
 
 The switch to 2 hours is a real trade-off against time for manuscripts and
 application statements — worth watching, and only worth it because

@@ -15,12 +15,12 @@ without eating into the time your manuscripts and application statements need.
 
 ## The Numbers
 
-| | Baseline (Jul 30) | Target | Gap |
-|:--|:--|:--|:--|
-| Verbal | 153 | 160+ | +7 |
-| Quant | 158 | 160+ | +2 |
-| Combined V+Q | 311 | 320–325 | +9 to +14 |
-| AWA | 3.5 | 4.5+ | +1.0 |
+| | Baseline (Jul 30) | Checkpoint 2 (Aug 12) | Target | Gap remaining |
+|:--|:--|:--|:--|:--|
+| Verbal | 153 | 158 | 160+ | +2 |
+| Quant | 158 | 158 | 160+ | +2 |
+| Combined V+Q | 311 | 316 | 320–325 | +4 to +9 |
+| AWA | 3.5 | 4 | 4.5+ | +0.5 |
 
 **Exam day: August 22, 2026.** Dress rehearsal (official ETS PowerPrep #1): **August 18**.
 The core problem isn't knowledge — it's pacing. Times are well under the limit
@@ -31,7 +31,7 @@ Every module here is built around that diagnosis. Full detail: [How It Works](ho
 
 | Course | Modules | Status | Progress |
 |:-------|:--------|:-------|:---------|
-| [GRE Sprint](courses/gre-prep/) | 18 days | In progress | 8/18 |
+| [GRE Sprint](courses/gre-prep/) | 18 days | In progress | 9/18 |
 
 **Pacing:** ~1 hour/day for Days 1-3, ~2 hours/day from Day 4 onward — the
 extra hour is practice volume (daily vocab, section-length timed drills),
