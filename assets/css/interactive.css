@@ -60,6 +60,8 @@
 .cc-quiz-box .cc-q:first-of-type { margin-top: 0; }
 .cc-opt { display: block; margin: 0.2rem 0; cursor: pointer; padding-left: 0.1rem; }
 .cc-opt input { margin-right: 0.5rem; }
+.cc-opt input:disabled { cursor: not-allowed; }
+.cc-opt:has(input:disabled) { opacity: 0.4; }
 .cc-why {
   font-size: 0.85em;
   opacity: 0.9;

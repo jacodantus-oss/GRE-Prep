@@ -231,6 +231,94 @@
     script.parentNode.insertBefore(wrap, script.nextSibling);
   }
 
+  /* ---------- Sentence Equivalence (pick exactly 2 of 6) ---------- */
+  function initSEQuiz(script) {
+    var id = script.getAttribute('data-id');
+    var title = script.getAttribute('data-title') || id;
+    var data;
+    try { data = JSON.parse(script.textContent); } catch (e) { return; }
+
+    var wrap = el('div', { 'class': 'cc-widget cc-quiz-box' });
+    wrap.appendChild(el('div', { 'class': 'cc-label', text: title + ' — select exactly 2' }));
+
+    data.questions.forEach(function (q, qi) {
+      wrap.appendChild(el('div', { 'class': 'cc-q', text: (qi + 1) + '. ' + q.q }));
+      var boxes = [];
+      q.options.forEach(function (opt, oi) {
+        var input = el('input', { type: 'checkbox', name: id + '-q' + qi, value: oi });
+        boxes.push(input);
+        var lab = el('label', { 'class': 'cc-opt' });
+        lab.appendChild(input);
+        lab.appendChild(document.createTextNode(opt));
+        wrap.appendChild(lab);
+      });
+      boxes.forEach(function (box) {
+        box.addEventListener('change', function () {
+          var checked = boxes.filter(function (b) { return b.checked; });
+          boxes.forEach(function (b) { b.disabled = checked.length >= 2 && !b.checked; });
+        });
+      });
+      wrap.appendChild(el('div', { 'class': 'cc-why', id: id + '-why' + qi, text: q.why || '' }));
+    });
+
+    var score = el('span', { 'class': 'cc-score' });
+    var meta = el('span', { 'class': 'cc-meta' });
+    function renderBest() {
+      var b = LS.get('quiz.' + id, null);
+      meta.textContent = b ? 'Best: ' + b.best + '/' + b.total + ' · attempts: ' + b.attempts : 'Not attempted yet';
+    }
+
+    var grade = el('button', { 'class': 'cc-btn cc-primary', text: 'Grade' });
+    grade.addEventListener('click', function () {
+      var correct = 0;
+      data.questions.forEach(function (q, qi) {
+        var checked = Array.prototype.slice.call(
+          wrap.querySelectorAll('input[name="' + id + '-q' + qi + '"]:checked')
+        ).map(function (b) { return parseInt(b.value, 10); }).sort();
+        var need = q.answers.slice().sort();
+        var isMatch = checked.length === need.length && checked.every(function (v, i) { return v === need[i]; });
+        var why = wrap.querySelector('#' + CSS.escape(id + '-why' + qi));
+        var qEl = wrap.querySelectorAll('.cc-q')[qi];
+        qEl.classList.remove('cc-right', 'cc-wrong');
+        if (isMatch) { correct++; qEl.classList.add('cc-right'); }
+        else { qEl.classList.add('cc-wrong'); }
+        if (why) why.style.display = 'block';
+      });
+      var total = data.questions.length;
+      score.textContent = correct + '/' + total;
+      var b = LS.get('quiz.' + id, { best: 0, total: total, attempts: 0 });
+      b.best = Math.max(b.best, correct);
+      b.total = total;
+      b.attempts += 1;
+      b.ts = Date.now();
+      b.title = title;
+      b.page = location.pathname;
+      b.last = correct;
+      LS.set('quiz.' + id, b);
+      renderBest();
+    });
+
+    var logBtn = el('button', { 'class': 'cc-btn', text: 'Log score to the record →' });
+    logBtn.addEventListener('click', function () {
+      var b = LS.get('quiz.' + id, null);
+      if (!b) { alert('Grade it first.'); return; }
+      var body = '## SE result: ' + title + '\n\n' +
+        '- Last score: **' + b.last + '/' + b.total + '**\n' +
+        '- Best score: **' + b.best + '/' + b.total + '**\n' +
+        '- Attempts: ' + b.attempts + '\n\n---\n_Logged from ' + location.href + '_\n';
+      openSubmission('SE: ' + title + ' — ' + b.last + '/' + b.total, body, ['quiz-log']);
+    });
+
+    var toolbar = el('div', { 'class': 'cc-toolbar' });
+    toolbar.appendChild(grade);
+    toolbar.appendChild(logBtn);
+    toolbar.appendChild(score);
+    toolbar.appendChild(meta);
+    wrap.appendChild(toolbar);
+    renderBest();
+    script.parentNode.insertBefore(wrap, script.nextSibling);
+  }
+
   /* ---------- Dashboard ---------- */
   function initDashboard(node) {
     node.classList.add('cc-dash');
@@ -287,6 +375,7 @@
   document.querySelectorAll('.cc-answer').forEach(initAnswerBox);
   document.querySelectorAll('.cc-submit').forEach(initGroupSubmit);
   document.querySelectorAll('script.cc-quiz').forEach(initQuiz);
+  document.querySelectorAll('script.cc-se').forEach(initSEQuiz);
   var dash = document.getElementById('cc-dashboard');
   if (dash) initDashboard(dash);
 })();

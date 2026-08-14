@@ -307,6 +307,30 @@ extreme, half-right, out of scope, or opposite?
 
 ## Log
 
-_Filled in after grading: RC, vocab, and cumulative drill scores, timing,
-and the verdict — plus whether this RC difficulty level tracks closer to
-Checkpoint 2's 57% than Day 6's 8/8 did._
+**Aug 14, 2026 — Graded.**
+
+- **RC: 8/8 again**, despite a real attempt to raise difficulty (harder
+  passages, subtler traps). **Vocab mixed review:** 10/10. **Cumulative
+  drill:** 10/10, twice.
+- **Honest read on the RC score:** this doesn't mean RC is fully solved —
+  two straight 8/8s from self-generated passages, against 57% on a real
+  Kaplan test, most likely means my passages are still below true GRE
+  difficulty, not that Checkpoint 2's result was a fluke. Passage mapping
+  clearly *is* doing real work (see below), but Day 11 needs genuinely
+  harder material to actually test it, not just more of the same.
+- **The mapping strategy produced a real, self-generated insight, worth
+  quoting in full:** *"Instead of focusing too much on understanding the
+  concepts, focus on understanding the relationships between the concepts.
+  Treat it like a logical equation in which you see how the different
+  unknowns relate."* That's a genuine generalization beyond what was
+  taught, not just applying an instruction — and it explains the
+  \"answered quickly after skimming\" result better than raw practice
+  volume would.
+- **Vocab:** skip-and-return on unknowns, then reasoned them out — the
+  same adaptive habit from Checkpoint 2's Quant section, showing up in a
+  different domain. Also signaled wanting a couple more passes on Decks
+  1+2 before Deck 3 — noted for Day 13.
+
+**Verdict: PASS.** Day 11 pulls in real external RC material (not just
+self-generated) to get an honest read on whether 8/8 reflects genuine
+mastery or material that's still too easy.
