@@ -217,5 +217,29 @@ anything about your approach?
 
 ## Log
 
-_Filled in after grading: external RC results, TC/SE/cumulative scores,
-and whether the real SE format changed the picture from Day 5's 8/8._
+**Aug 15, 2026 — Graded.**
+
+- **ETS official RC:** 5/6 — the real difficulty read this course needed.
+  Closer to Checkpoint 2's 57% than to the two homemade 8/8s, though still
+  higher, likely because ETS's own "sample questions" PDF illustrates
+  format more than it replicates true adaptive-test difficulty.
+- **TC:** 6/6. **SE (real format, first use):** 5/6. **Cumulative drill:**
+  9/10.
+- **Genuinely sharp observation on RC:** sentence-selection/detail
+  questions were fastest; "implied"/"suggests" (inference) questions were
+  slowest — exactly matching Day 10's triage table, discovered
+  independently under real conditions rather than just accepted as taught.
+  Also noticed **real ETS passages are less cleanly signposted** than the
+  practice passages here — direction words aren't always doing the work
+  they do in constructed examples. That's a fair, important limitation of
+  practice material to know going in.
+- **SE miss, self-diagnosed precisely:** "slightly foolish as I forgot to
+  keep an eye out for the fake-pairs and non-pairs... should have gone
+  over my prior notes." Not a strategy failure — a **retrieval** failure:
+  the technique (Day 5) wasn't active in memory when it was needed. Same
+  root cause either way: a taught strategy has to be *recalled* under
+  pressure, not just understood once.
+
+**Verdict: PASS**, with a real, actionable carry-forward: build a way to
+consult strategy notes quickly instead of relying on remembering they
+exist. Worth a consolidated quick-reference page — offered, not yet built.
