@@ -84,6 +84,12 @@ section-length practice specifically requires section-length time.
 
 ## Doing the work on the site
 
+- **[Strategy Cheat Sheet](/cheat-sheet)** — every technique taught so far,
+  one page, organized by section. Added to the same day any new day
+  introduces a new strategy, not batched later. Built after a real
+  retrieval failure on Day 11 (a taught strategy wasn't recalled under
+  pressure) — the fix for "I understood it once" is a page you can
+  actually skim before a section, not just remembering it exists.
 - **Answer boxes** under practice questions and written responses. Drafts
   autosave in your browser as you type.
 - **Submit for grading** bundles your answers into a pre-filled GitHub issue

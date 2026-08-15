@@ -37,6 +37,10 @@ Every module here is built around that diagnosis. Full detail: [How It Works](ho
 extra hour is practice volume (daily vocab, section-length timed drills),
 not new topics. Every day, Aug 4 → Aug 22.
 
+**[Strategy Cheat Sheet](cheat-sheet)** — every technique taught so far, on
+one page. Worth skimming before a section instead of relying on remembering
+a strategy exists.
+
 ## Your activity
 
 <div id="cc-dashboard"></div>
