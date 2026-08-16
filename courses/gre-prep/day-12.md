@@ -276,5 +276,24 @@ integers) changed your answer? How did the 35-minute pacing feel across
 
 ## Log
 
-_Filled in after grading: QC practice score, full timed set score and
-pacing, and the verdict._
+**Aug 16, 2026 — Graded.**
+
+- **QC practice:** 9/10 — one careless overlook on an exponent question,
+  one genuine approach gap on the other ("struggling on how to attack the
+  question" — resolved after reading the explanation, worth a re-look if
+  it recurs). **Full timed set (20 questions):** score not logged for
+  either part — log both when convenient. **Timing:** 25 of 35 minutes
+  used, comfortable, with room to spare.
+- **Difficulty, called out directly and correctly again:** "some questions
+  still feel too easy, and not at the same rigor as GRE questions" — same
+  pattern as Days 4-6's RC material, now showing up in self-generated
+  Quant content too. This is now confirmed across two domains, not a
+  one-off. **Fix:** Day 14 leans on real external Quant material (ETS's
+  own sample PDF has a Quant section; Magoosh/Manhattan question banks as
+  backup) the same way Day 11 did for RC, rather than continuing to trust
+  self-generated calibration for the areas that matter most.
+- Contrasting-number testing specifically helped on variable-in-both-
+  quantities questions — the exact case it's built for.
+
+**Verdict: PASS**, with the difficulty-calibration fix queued for Day 14
+rather than deferred again.

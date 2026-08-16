@@ -10,7 +10,7 @@ section or a practice set — the full reasoning, traps, and worked examples
 live on the day page each one came from (linked below); this page is just
 the "don't forget this exists" version.
 
-**Last updated:** through Day 12 (Aug 15). Updated the same day any new
+**Last updated:** through Day 13 (Aug 16). Updated the same day any new
 day introduces a new strategy — check back as the course continues.
 
 ---
@@ -79,6 +79,12 @@ day introduces a new strategy — check back as the course continues.
 - Body 1 & 2: two **independent** reasons — not one reason restated — each with one specific, concrete example. Use a different domain for each; reusing the same scenario reads as circular even with a "new" claim.
 - Body 3: name the strongest counterargument, take it seriously for a sentence, then explain why your position still holds.
 - Last 2 minutes: proofread. A single typo in a load-bearing sentence has shown up twice now.
+
+### Argument Essay — [Day 13](courses/gre-prep/day-13)
+- You're evaluating the **logic**, not the conclusion — never say whether you agree, only whether the evidence actually supports it.
+- Five flaws to scan for by name: **hasty generalization**, **false causality** (correlation≠causation), **false analogy**, **circular reasoning**, **unwarranted assumption**.
+- Pick the 3 strongest flaws, not every possible one. For each: name the assumption, explain specifically why it's unsupported, state what evidence would resolve it.
+- Same 2-3 minute bullet outline as the Issue essay — one phrase per flaw before writing prose.
 
 ---
 
