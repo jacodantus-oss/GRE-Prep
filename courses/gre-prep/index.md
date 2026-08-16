@@ -66,15 +66,15 @@ needs section-length practice to train, which short drills can't provide.
 | [11](day-11) | Aug 14 | Verbal: RC timed practice (real external material this time — two 8/8s on self-generated passages against 57% on Kaplan means the homemade content is still too easy) + mixed Short Verbal drilling | Complete |
 | [12](day-12) | Aug 15 | Quant: **Quantity Comparison strategy** (gap found at Checkpoint 2 — never taught) + full timed mixed set (20q/35min — good pacing practice, though not the actual GRE section shape; see Day 12's log) | Complete |
 | [13](day-13) | Aug 16 | AWA: Issue essay round 2 (**not** Argument — that task was removed from the GRE in the Sept 2023 redesign, caught by the student while reading Day 8's linked article) · Vocab Deck 3 — by now Decks 1-2 will have had passes on Days 8, 10, and 11 (the "couple more passes" requested), so introducing new words here still leaves ~6 days of runway before the exam | Complete |
-| [14](day-14) | Aug 17 | Review day: **Geometry & Data Analysis prioritized** (both regressed from 100% baseline to 86%/75% at Checkpoint 2 — zero dedicated instruction so far), using real external material for practice (self-generated Quant content confirmed too easy on Days 6 and 12) + whatever else the logged data shows is weakest + 1 extra timed essay (Hour 2) | Not started |
+| [14](day-14) | Aug 17 | Review day: **Geometry & Data Analysis prioritized** (both regressed from 100% baseline to 86%/75% at Checkpoint 2 — zero dedicated instruction so far), first real coverage of **3 GRE question formats never used in this course** (Multiple-Answer, Numeric Entry, Data Interpretation Sets — found in the same topics audit). No extra essay today — moved to Day 16, day's full without it. | Not started |
 
 ### Week 3 — Dress rehearsal & taper (Aug 18–22)
 
 | Day | Date | Focus | Status |
 |:--|:--|:--|:--|
 | [15](day-15) | Aug 18 | **Checkpoint 3** — official ETS PowerPrep full-length, real timing | Not started |
-| [16](day-16) | Aug 19 | Dress rehearsal review: targeted fixes only, on what actually showed up | Not started |
-| [17](day-17) | Aug 20 | Light review: vocab final pass, AWA template refresh, confidence practice + 1 extra timed essay (Hour 2) | Not started |
+| [16](day-16) | Aug 19 | Dress rehearsal review: targeted fixes only, on what actually showed up + 1 extra timed essay (moved from Day 14, Hour 2) | Not started |
+| [17](day-17) | Aug 20 | Light review: **combined-decks vocab review** (Decks 1-3, requested after Day 13 — spaced review goes combined, new-deck introduction stays isolated), AWA template refresh, confidence practice + 1 extra timed essay (Hour 2) | Not started |
 | [18](day-18) | Aug 21 | Final light warm-up (10-15 easy/medium mixed questions) — no new content | Not started |
 | — | Aug 22 | [Exam day](exam-day) — logistics, not a study day | — |
 

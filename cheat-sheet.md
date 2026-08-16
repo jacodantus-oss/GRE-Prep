@@ -10,7 +10,7 @@ section or a practice set — the full reasoning, traps, and worked examples
 live on the day page each one came from (linked below); this page is just
 the "don't forget this exists" version.
 
-**Last updated:** through Day 13 (Aug 16). Updated the same day any new
+**Last updated:** through Day 14 (Aug 17). Updated the same day any new
 day introduces a new strategy — check back as the course continues.
 
 ---
@@ -49,6 +49,25 @@ day introduces a new strategy — check back as the course continues.
 - Simplify algebraically before plugging in numbers — shared terms often cancel straight to C.
 - Test contrasting values (positive integer, negative, zero, fraction between 0 and 1) — if the relationship changes at all across tests, it's D.
 - Figures are explicitly **not** drawn to scale — use only the given numbers.
+
+### Geometry — [Day 14](courses/gre-prep/day-14)
+- Figures are **never** drawn to scale — use only given numbers/properties, never eyeball a length or angle.
+- When stuck, ask "what shape am I actually dealing with?" — most hard geometry reduces to a basic right triangle or circle.
+- Pythagorean triples worth recognizing on sight: 3-4-5, 5-12-13, 8-15-17, and their multiples.
+- 30-60-90 sides: ratio 1:√3:2. 45-45-90 sides: ratio 1:1:√2.
+- Isosceles triangle: angles opposite the equal sides are equal.
+- Polygon interior angle sum = (n−2)×180°.
+
+### Data Analysis — [Day 14](courses/gre-prep/day-14)
+- Adding a constant to every value in a set doesn't change standard deviation (shifts everything equally); scaling or adding outliers does.
+- Probability "and" (independent) → multiply. "Or" (mutually exclusive) → add. Without replacement → recompute the denominator each draw.
+- Conditional probability: P(A given B) = P(A and B)/P(B) — restrict to the condition first.
+- Combination vs. permutation test: if swapping two selected items' positions would count as a *different* outcome, it's a permutation (order matters); if not, it's a combination.
+- Overlapping sets: \|A∪B\| = \|A\| + \|B\| − \|A∩B\|.
+
+### Question formats — [Day 14](courses/gre-prep/day-14)
+The GRE Quant section uses five formats, not just standard multiple-choice:
+**Quantity Comparison** (Day 12) · **Multiple-choice, select one** · **Multiple-choice, select all that apply** (1-3 correct, no partial credit — check every option on its own merit, don't assume exactly one or two are right) · **Numeric Entry** (type a number — no answer choices to eliminate against, so double-check units/rounding before submitting) · **Data Interpretation Sets** (2-3 questions sharing one table/graph — read the table's structure once, carefully, before touching any of its questions).
 
 ---
 
