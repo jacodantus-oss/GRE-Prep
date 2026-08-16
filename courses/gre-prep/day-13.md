@@ -1,95 +1,52 @@
 ---
-title: "13. AWA Argument Essay & Vocab Deck 3"
+title: "13. AWA Issue Essay #2 & Vocab Deck 3"
 parent: GRE Sprint
 nav_order: 13
 ---
 
-# Day 13: AWA Argument Essay & Vocab Deck 3
+# Day 13: AWA Issue Essay (Round 2) & Vocab Deck 3
 
 **Date:** August 16, 2026 · **Time budget:** ~2 hours
 
-A genuinely different skill from Day 8's Issue essay: you're not arguing
-your own position on a topic — you're critiquing the logic of an argument
-someone else already made. No cumulative Quant drill today (AWA + a new
-vocab deck already fill the day, same call as Day 8).
+**Correction, caught directly from the Day 8 strategy article by the
+student, not by me:** the GRE's Analytical Writing section has been
+**Analyze an Issue only since the September 2023 test redesign** — the
+Analyze an Argument task was removed and isn't part of the current exam.
+This day originally taught Argument-essay strategy; that content is gone,
+replaced with a second Issue essay round instead. (In hindsight, the
+baseline diagnostic only ever reported one AWA score, 3.5 — a signal this
+should have been caught before Day 8, not Day 13.) No cumulative Quant
+drill today — same call as before, AWA plus a new vocab deck fill the day.
 
 ---
 
-## Part 1 — AWA: Argument Essay
+## Part 1 — AWA: Issue Essay, Round 2
 
-### Review
+Same task as Day 8 — full strategy and the five-part template are on
+[Day 8's page](day-08) and the [cheat sheet](/cheat-sheet), not repeated
+here. Today is about applying the two specific things Day 8's grading
+surfaced:
 
-**The job:** you're given a short passage containing a conclusion and the
-evidence used to support it. Your task is to evaluate whether the evidence
-actually supports the conclusion — **not** to say whether you agree with
-the conclusion itself. Agreeing or disagreeing with the recommendation is
-the wrong response entirely; the only question is whether the *reasoning*
-holds up.
-
-**Five flaw types worth knowing by name** — recognizing the pattern is the
-fastest way to find something to write about:
-
-| Flaw | What it is |
-|:--|:--|
-| Hasty generalization | Drawing a broad conclusion from a small or unrepresentative sample |
-| False causality (post hoc) | Assuming A caused B just because B followed A, without ruling out other explanations |
-| False analogy | Assuming two things are comparable in the ways that matter, when they may not be |
-| Circular reasoning | Using the conclusion itself as support for the conclusion |
-| Unwarranted assumption | The argument silently depends on something unproven — if that thing turns out false, the whole argument collapses |
-
-**Read the argument like a detective, sentence by sentence:** what has to
-be true for this evidence to actually support this conclusion? Pick the
-**3 strongest flaws**, not every possible one — depth on three beats a
-shallow list of eight.
-
-### The template
-
-1. **Intro** — summarize the argument's conclusion and its stated
-   evidence in your own words, then state your thesis: the argument is
-   unconvincing as it stands because of several unexamined assumptions.
-2. **Body 1** — first flaw: name the assumption, explain specifically why
-   it's unsupported, and what evidence would be needed to resolve it.
-3. **Body 2** — second flaw, same structure, different assumption.
-4. **Body 3** — third flaw, or reframe as "the argument could be
-   strengthened by evidence such as..." — both are strong closers.
-5. **Conclusion** — brief: the argument fails to justify its conclusion
-   as written, and specify what additional information would let someone
-   actually evaluate it properly.
-
-**Before writing:** use the same 2-3 minute bullet outline from Day 8 —
-one phrase per flaw — before composing full sentences. That was the fix
-you identified for yourself after Day 8's essay; today's the test of it.
-
-### Strategy
-
-Read: [Analyze an Argument Essay: Tips, Tricks, and Examples](https://prepforsuccesstutors.com/gre-analyze-an-argument-essay/) (~8 min).
-
-**Key takeaway:** you're not being graded on whether you correctly guess
-what the *real* answer is — you're graded on how clearly you identify a
-genuine logical gap and explain, specifically, why it weakens the
-argument's ability to support its own conclusion.
+1. **Body 2 needs its own independent example, not an extension of
+   body 1's scenario.** Different domain, same thesis.
+2. **Outline for 2-3 minutes before writing prose** — one phrase per
+   template slot (thesis / example 1 / example 2 / counterargument) —
+   which you identified yourself as the fix for running short on
+   writing/editing time.
 
 ### Practice essay — timed, 30 minutes
 
-> **The following appeared in a memo from the CEO of a chain of gyms:**
+> **Claim:** Educational institutions have a greater responsibility to
+> prepare students for civic participation than for economic success.
 >
-> "Over the past year, our flagship location in downtown Springfield
-> offered free personal training sessions to all new members, and that
-> location saw a 40 percent increase in annual membership renewals
-> compared to the previous year. Clearly, offering free personal training
-> sessions caused this increase in renewals. Therefore, to boost renewal
-> rates at all of our locations nationwide, we should immediately
-> implement free personal training sessions for new members at every gym
-> in our chain."
->
-> Write a response in which you discuss what specific questions would need
-> to be answered in order to decide whether the recommendation and the
-> argument on which it is based are reasonable. Be sure to explain how the
-> answers to these questions would help to evaluate the recommendation.
+> Write a response in which you discuss the extent to which you agree or
+> disagree with the claim. In developing and supporting your position,
+> describe specific circumstances in which adopting the claim's position
+> could be beneficial or harmful.
 
 Set a real 30-minute timer before you start.
 
-<div class="cc-answer" data-id="gre-day13-awa" data-title="AWA Argument Essay — timed practice" data-group="gre-day13"></div>
+<div class="cc-answer" data-id="gre-day13-awa" data-title="AWA Issue Essay (Round 2) — timed practice" data-group="gre-day13"></div>
 
 ---
 
@@ -214,17 +171,16 @@ build precision between near-synonyms, not just raw recognition.
 }
 </script>
 
-<div class="cc-answer" data-id="gre-day13-reflect" data-title="Reflection — outlining, flaw-spotting, vocab" data-group="gre-day13">
-Did the 2-3 minute outline actually speed up drafting this time? Which of
-the three flaws was hardest to articulate clearly — finding it, or
-explaining *why* it undermines the argument? Any Deck 3 words that
-overlapped confusingly with earlier decks (obstinate/recalcitrant,
-reticent/taciturn)?
+<div class="cc-answer" data-id="gre-day13-reflect" data-title="Reflection — outlining, body-2 independence, vocab" data-group="gre-day13">
+Did the 2-3 minute outline actually speed up drafting this time? Did body
+2 land as an independent example, or did it drift back toward extending
+body 1's? Any Deck 3 words that overlapped confusingly with earlier decks
+(obstinate/recalcitrant, reticent/taciturn)?
 </div>
 
 <div class="cc-submit" data-group="gre-day13" data-title="Day 13 — Results, essay & reflection"></div>
 
 ## Log
 
-_Filled in after grading: vocab score, essay verdict against the
-Argument-essay template, and whether the outlining fix from Day 8 held._
+_Filled in after grading: vocab score, essay verdict against the Issue
+template — specifically whether the body-2 and outlining fixes held._

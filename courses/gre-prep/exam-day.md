@@ -33,8 +33,7 @@ with it.
 - No new content. Day 18 was the last practice.
 - Normal sleep, normal breakfast — nothing new or different from your
   routine on any other exam day.
-- Reread your AWA templates once (Issue + Argument openings) so they're
-  fresh, then stop.
+- Reread your AWA Issue essay template once so it's fresh, then stop.
 
 ## During the test
 

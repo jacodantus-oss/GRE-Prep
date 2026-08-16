@@ -344,7 +344,10 @@ hardest to hit — the concrete example, or the counterargument paragraph?
 
 **Verdict: PASS**, and a real jump from the baseline — concrete examples
 and the complexity paragraph are both landing. Body-2 independence and
-proofreading are the two carry-forward items for the Day 13 Argument essay.
+proofreading are the two carry-forward items for Day 13's second Issue
+essay — the GRE dropped the Analyze an Argument task in its September
+2023 redesign, so all remaining AWA practice in this course is Issue
+essay reps, not a second essay type.
 
 **Reflection notes worth keeping:** the flip-proof inequality method was
 used selectively, not dogmatically — "there were some occasions in which

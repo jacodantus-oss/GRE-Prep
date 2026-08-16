@@ -65,7 +65,7 @@ needs section-length practice to train, which short drills can't provide.
 | [10](day-10) | Aug 13 | Verbal: Reading Comp strategy (passage mapping, question-type triage) — full version, not maintenance; Checkpoint 2 showed RC still needs real work (57%) | Complete |
 | [11](day-11) | Aug 14 | Verbal: RC timed practice (real external material this time — two 8/8s on self-generated passages against 57% on Kaplan means the homemade content is still too easy) + mixed Short Verbal drilling | Complete |
 | [12](day-12) | Aug 15 | Quant: **Quantity Comparison strategy** (gap found at Checkpoint 2 — never taught) + full timed mixed set (20q/35min), real section pacing | Complete |
-| [13](day-13) | Aug 16 | AWA: Argument essay template + 1 timed practice essay · Vocab Deck 3 — by now Decks 1-2 will have had passes on Days 8, 10, and 11 (the "couple more passes" requested), so introducing new words here still leaves ~6 days of runway before the exam | Not started |
+| [13](day-13) | Aug 16 | AWA: Issue essay round 2 (**not** Argument — that task was removed from the GRE in the Sept 2023 redesign, caught by the student while reading Day 8's linked article) · Vocab Deck 3 — by now Decks 1-2 will have had passes on Days 8, 10, and 11 (the "couple more passes" requested), so introducing new words here still leaves ~6 days of runway before the exam | Not started |
 | [14](day-14) | Aug 17 | Review day: **Geometry & Data Analysis prioritized** (both regressed from 100% baseline to 86%/75% at Checkpoint 2 — zero dedicated instruction so far), using real external material for practice (self-generated Quant content confirmed too easy on Days 6 and 12) + whatever else the logged data shows is weakest + 1 extra timed essay (Hour 2) | Not started |
 
 ### Week 3 — Dress rehearsal & taper (Aug 18–22)
@@ -80,6 +80,8 @@ needs section-length practice to train, which short drills can't provide.
 
 **Vocab track:** daily from Day 4 onward (~15-20 words/day), building toward
 exam day. Progress and specific word lists live on each day's page, not
-duplicated here. **AWA:** 4 timed practice essays total (Days 8, 13, 14, 17)
-— up from 2, since essay structure is template-muscle-memory and responds
-well to reps.
+duplicated here. **AWA:** 4 timed Issue essay reps total (Days 8, 13, 14,
+17) — all the same task type, since the GRE has only tested Analyze an
+Issue since its September 2023 redesign (Analyze an Argument was removed).
+Essay structure is template-muscle-memory and responds well to reps
+regardless.

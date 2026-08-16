@@ -74,17 +74,16 @@ day introduces a new strategy — check back as the course continues.
 
 ## AWA
 
-### Issue Essay — [Day 8](courses/gre-prep/day-08)
+The GRE has tested **Analyze an Issue only** since its September 2023
+redesign — Analyze an Argument was removed. All AWA prep in this course
+is Issue essay reps (Days 8, 13, 14, 17).
+
+### Issue Essay — [Day 8](courses/gre-prep/day-08) · [Day 13](courses/gre-prep/day-13)
 - Intro: paraphrase the claim, state a *qualified* thesis ("mostly true, except when...").
 - Body 1 & 2: two **independent** reasons — not one reason restated — each with one specific, concrete example. Use a different domain for each; reusing the same scenario reads as circular even with a "new" claim.
 - Body 3: name the strongest counterargument, take it seriously for a sentence, then explain why your position still holds.
+- 2-3 minute bullet outline before writing prose (one phrase per slot: thesis / example 1 / example 2 / counterargument).
 - Last 2 minutes: proofread. A single typo in a load-bearing sentence has shown up twice now.
-
-### Argument Essay — [Day 13](courses/gre-prep/day-13)
-- You're evaluating the **logic**, not the conclusion — never say whether you agree, only whether the evidence actually supports it.
-- Five flaws to scan for by name: **hasty generalization**, **false causality** (correlation≠causation), **false analogy**, **circular reasoning**, **unwarranted assumption**.
-- Pick the 3 strongest flaws, not every possible one. For each: name the assumption, explain specifically why it's unsupported, state what evidence would resolve it.
-- Same 2-3 minute bullet outline as the Issue essay — one phrase per flaw before writing prose.
 
 ---
 
