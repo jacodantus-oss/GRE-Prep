@@ -70,6 +70,19 @@
   border-left: 2px solid rgba(128, 128, 128, 0.4);
   display: none;
 }
+.cc-numeric-input {
+  display: block;
+  width: 12rem;
+  max-width: 100%;
+  background: transparent;
+  color: inherit;
+  border: 1px solid rgba(128, 128, 128, 0.45);
+  border-radius: 6px;
+  padding: 0.4rem 0.6rem;
+  font: inherit;
+  margin: 0.3rem 0 0.6rem;
+}
+.cc-numeric-input:focus { outline: none; border-color: rgba(84, 140, 255, 0.8); }
 .cc-right { color: #3fb950; font-weight: 600; }
 .cc-wrong { color: #f85149; font-weight: 600; }
 .cc-score { font-weight: 700; margin-right: 0.5rem; }

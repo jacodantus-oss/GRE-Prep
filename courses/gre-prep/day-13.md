@@ -182,5 +182,59 @@ body 1's? Any Deck 3 words that overlapped confusingly with earlier decks
 
 ## Log
 
-_Filled in after grading: vocab score, essay verdict against the Issue
-template — specifically whether the body-2 and outlining fixes held._
+**Aug 17, 2026 — Graded.**
+
+- **Vocab Deck 3:** 15/15 — clean, despite self-reported difficulty
+  mid-quiz; the memory hooks did real work.
+- **Outlining:** ~7 minutes, longer than the 2-3 min target, but paid for
+  itself — "made the writing a lot quicker as I could look back at the
+  intended point to ensure I was on track." The time-to-value tradeoff
+  worked even if the outline itself ran long; worth letting it run a
+  bit over if it keeps buying that much clarity.
+
+**Essay, walked against the template:**
+- **Intro:** states a position and previews the argument, but isn't
+  explicitly *qualified* ("mostly true, except when...") the way the
+  template asks — it reads as a fairly absolute stance. Minor, not a
+  structural problem.
+- **Body 1 & 2 — independence: fixed.** Body 1 (social/psychological
+  argument: job market strain, isolation, altruism) and Body 2 (economic
+  argument via game theory/collaboration) are genuinely different
+  reasons, not one restated — exactly the target from Day 8.
+- **New issue to work on next: concreteness regressed.** Neither body
+  paragraph has a specific, named example the way Day 8's library/*Count
+  of Monte Cristo* scenario did — both stay conceptual ("imagine a
+  student...", "imagine a world...", "game theory found...") without a
+  real case, statistic, or detailed scenario anchoring them. Independence
+  and concreteness are two separate skills, and this essay traded one for
+  the other. Next essay: pick reasons that are independent *and* each
+  pin down one specific example before writing.
+- **Body 3 (counterargument):** does the job — states the opposing case
+  plainly and answers it with the community-support point. Solid.
+- **Proofreading:** no typo this time (a real improvement over Days 8's
+  "dissapear") — a few stray comma splices, but nothing load-bearing.
+
+**Verdict: PASS.** Real progress on independence, concreteness is the new
+named target — same pattern as Day 8→13, one fix at a time rather than
+everything at once.
+
+**On your question — the mid-example "I thought of a better one" problem:**
+this is a normal experience under 30-minute constraints, not a sign
+something's wrong. Two concrete fixes: (1) during the outline phase,
+jot two candidate examples per body paragraph instead of one, and pick
+the stronger before writing any prose — that moves the decision to the
+cheap phase instead of the expensive one; (2) once you're mid-paragraph,
+the correct move is almost always to finish the example you're on rather
+than switch — a competently finished "good enough" example consistently
+scores better than an abandoned "ideal" one. The instinct to spot a
+better example mid-stream is actually a good sign (your example-
+generation is fast); the skill to build is locking the choice in earlier.
+
+**On vocab — noted, and there's already a natural slot:** Day 17 is
+already planned as a combined-decks vocab review ("vocab final pass").
+Given today's Deck 3 was easier once it wasn't mixed with Decks 1-2,
+that's good calibration data for Day 17 rather than a reason to abandon
+combined review — new-deck introduction stays isolated (today confirmed
+that's right), spaced review goes combined (Day 17). Happy to pull some
+combined review earlier than Day 17 if you'd rather not wait — say the
+word.
