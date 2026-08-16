@@ -281,9 +281,13 @@ integers) changed your answer? How did the 35-minute pacing feel across
 - **QC practice:** 9/10 — one careless overlook on an exponent question,
   one genuine approach gap on the other ("struggling on how to attack the
   question" — resolved after reading the explanation, worth a re-look if
-  it recurs). **Full timed set (20 questions):** score not logged for
-  either part — log both when convenient. **Timing:** 25 of 35 minutes
-  used, comfortable, with room to spare.
+  it recurs).
+- **Full timed set (20 questions, real section pace): 18/20 (90%).** QC
+  portion: 8/8, perfect — the strategy is holding up under real section
+  pressure, not just in isolated practice. Standard portion: 10/12,
+  matching the "one struggle with the standard questions" already
+  flagged — two misses there, nothing new to add without knowing which
+  ones. **Timing:** 25 of 35 minutes used, comfortable, with room to spare.
 - **Difficulty, called out directly and correctly again:** "some questions
   still feel too easy, and not at the same rigor as GRE questions" — same
   pattern as Days 4-6's RC material, now showing up in self-generated
