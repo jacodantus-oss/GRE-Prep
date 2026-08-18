@@ -53,7 +53,8 @@ day introduces a new strategy — check back as the course continues.
 ### Geometry — [Day 14](courses/gre-prep/day-14)
 - Figures are **never** drawn to scale — use only given numbers/properties, never eyeball a length or angle.
 - When stuck, ask "what shape am I actually dealing with?" — most hard geometry reduces to a basic right triangle or circle.
-- Pythagorean triples worth recognizing on sight: 3-4-5, 5-12-13, 8-15-17, and their multiples.
+- Pythagorean triples worth recognizing on sight: 3-4-5, 5-12-13, 8-15-17, 9-40-41, and their multiples.
+- Numeric Entry only accepts a final number (integer/decimal/simple fraction) — never an unsimplified expression. If a right-triangle problem asks for Numeric Entry, expect a clean triple; bracket between nearby perfect squares and test integers rather than trying to compute an exact decimal square root by hand.
 - 30-60-90 sides: ratio 1:√3:2. 45-45-90 sides: ratio 1:1:√2.
 - Isosceles triangle: angles opposite the equal sides are equal.
 - Polygon interior angle sum = (n−2)×180°.
