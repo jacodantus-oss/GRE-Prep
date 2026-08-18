@@ -278,6 +278,36 @@ arithmetic once you knew which one to use?
 
 ## Log
 
-_Filled in after grading: Geometry and Data Analysis scores across all
-formats, and the verdict — plus whether Geometry/Data actually needed the
-re-teach or mostly needed exposure to click back into place._
+**Aug 18, 2026 — Graded (two sessions: the Multiple-Answer/Numeric
+sections were originally missed, not seen until a follow-up pass).**
+
+- **Geometry:** MC 4/4, Numeric Entry 2/3, Multiple-Answer 1/1. QC portion
+  never got logged either — worth a quick check on whether it was done
+  and just not logged, or missed along with the others.
+- **Data Interpretation Set:** Q1 (mean, Numeric) 1/1, Q2 & Q3 (median,
+  probability) 2/2 — clean.
+- **Data Analysis:** MC 3/4, Multiple-Answer 0/1. The Numeric Entry pair
+  (permutation/combination computation) never got logged — log it when
+  convenient.
+- **Confirmed via chat, and this maps precisely onto the 0/1
+  Multiple-Answer result:** "I used the right formula in the right
+  situation, but just mixed up the names." This is a **naming problem,
+  not a procedural one** — the actual skill (recognizing order-matters
+  vs. order-doesn't, and applying the correct formula) is intact, which
+  is the harder half of this topic and the part that was genuinely new
+  today. Mnemonic for the label itself: **Permutation → Position** (order
+  matters, both P-words); **Combination → Collection** (a group/committee,
+  no ranking). Worth testing whether that sticks better than the
+  swap-two-items test from Day 14's strategy section.
+
+**Geometry/Data Analysis needed a real teach, not just exposure** — per
+your own reflection, factorials and the permutation/combination
+distinction were "completely new," and some triangle side-length rules
+needed real re-learning, not just a refresher. Confirms Checkpoint 2's
+regression wasn't just rust; this was a genuine gap the course hadn't
+covered until today.
+
+**Verdict: PASS.** Strong first exposure to three brand-new formats and
+two content areas at once — the one real miss (Multi-Answer) is a label
+mix-up on the newest, hardest material of the day, not a sign the
+underlying learning didn't take.
