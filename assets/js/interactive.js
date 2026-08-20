@@ -488,6 +488,90 @@
     script.parentNode.insertBefore(wrap, script.nextSibling);
   }
 
+  /* ---------- Multi-blank Text Completion (2-3 independent blanks, all must match) ---------- */
+  function initTCMultiQuiz(script) {
+    var id = script.getAttribute('data-id');
+    var title = script.getAttribute('data-title') || id;
+    var data;
+    try { data = JSON.parse(script.textContent); } catch (e) { return; }
+    var blankLabels = ['(i)', '(ii)', '(iii)'];
+
+    var wrap = el('div', { 'class': 'cc-widget cc-quiz-box' });
+    wrap.appendChild(el('div', { 'class': 'cc-label', text: title + ' — every blank must be correct for credit' }));
+
+    data.questions.forEach(function (q, qi) {
+      wrap.appendChild(el('div', { 'class': 'cc-q', text: (qi + 1) + '. ' + q.q }));
+      q.blanks.forEach(function (opts, bi) {
+        wrap.appendChild(el('div', { 'class': 'cc-meta', text: 'Blank ' + (blankLabels[bi] || bi + 1) + ':' }));
+        opts.forEach(function (opt, oi) {
+          var input = el('input', { type: 'radio', name: id + '-q' + qi + '-b' + bi, value: oi });
+          var lab = el('label', { 'class': 'cc-opt' });
+          lab.appendChild(input);
+          lab.appendChild(document.createTextNode(opt));
+          wrap.appendChild(lab);
+        });
+      });
+      wrap.appendChild(el('div', { 'class': 'cc-why', id: id + '-why' + qi, text: q.why || '' }));
+    });
+
+    var score = el('span', { 'class': 'cc-score' });
+    var meta = el('span', { 'class': 'cc-meta' });
+    function renderBest() {
+      var b = LS.get('quiz.' + id, null);
+      meta.textContent = b ? 'Best: ' + b.best + '/' + b.total + ' · attempts: ' + b.attempts : 'Not attempted yet';
+    }
+
+    var grade = el('button', { 'class': 'cc-btn cc-primary', text: 'Grade' });
+    grade.addEventListener('click', function () {
+      var correct = 0;
+      data.questions.forEach(function (q, qi) {
+        var allMatch = q.blanks.every(function (opts, bi) {
+          var sel = wrap.querySelector('input[name="' + id + '-q' + qi + '-b' + bi + '"]:checked');
+          var val = sel ? parseInt(sel.value, 10) : -1;
+          return val === q.answers[bi];
+        });
+        var why = wrap.querySelector('#' + CSS.escape(id + '-why' + qi));
+        var qEl = wrap.querySelectorAll('.cc-q')[qi];
+        qEl.classList.remove('cc-right', 'cc-wrong');
+        if (allMatch) { correct++; qEl.classList.add('cc-right'); }
+        else { qEl.classList.add('cc-wrong'); }
+        if (why) why.style.display = 'block';
+      });
+      var total = data.questions.length;
+      score.textContent = correct + '/' + total;
+      var b = LS.get('quiz.' + id, { best: 0, total: total, attempts: 0 });
+      b.best = Math.max(b.best, correct);
+      b.total = total;
+      b.attempts += 1;
+      b.ts = Date.now();
+      b.title = title;
+      b.page = location.pathname;
+      b.last = correct;
+      LS.set('quiz.' + id, b);
+      renderBest();
+    });
+
+    var logBtn = el('button', { 'class': 'cc-btn', text: 'Log score to the record →' });
+    logBtn.addEventListener('click', function () {
+      var b = LS.get('quiz.' + id, null);
+      if (!b) { alert('Grade it first.'); return; }
+      var body = '## Multi-blank TC result: ' + title + '\n\n' +
+        '- Last score: **' + b.last + '/' + b.total + '**\n' +
+        '- Best score: **' + b.best + '/' + b.total + '**\n' +
+        '- Attempts: ' + b.attempts + '\n\n---\n_Logged from ' + location.href + '_\n';
+      openSubmission('TC-Multi: ' + title + ' — ' + b.last + '/' + b.total, body, ['quiz-log']);
+    });
+
+    var toolbar = el('div', { 'class': 'cc-toolbar' });
+    toolbar.appendChild(grade);
+    toolbar.appendChild(logBtn);
+    toolbar.appendChild(score);
+    toolbar.appendChild(meta);
+    wrap.appendChild(toolbar);
+    renderBest();
+    script.parentNode.insertBefore(wrap, script.nextSibling);
+  }
+
   /* ---------- Dashboard ---------- */
   function initDashboard(node) {
     node.classList.add('cc-dash');
@@ -547,6 +631,7 @@
   document.querySelectorAll('script.cc-se').forEach(initSEQuiz);
   document.querySelectorAll('script.cc-multi').forEach(initMultiQuiz);
   document.querySelectorAll('script.cc-numeric').forEach(initNumericQuiz);
+  document.querySelectorAll('script.cc-tc-multi').forEach(initTCMultiQuiz);
   var dash = document.getElementById('cc-dashboard');
   if (dash) initDashboard(dash);
 })();
