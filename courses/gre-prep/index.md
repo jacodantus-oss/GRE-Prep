@@ -73,15 +73,17 @@ needs section-length practice to train, which short drills can't provide.
 | Day | Date | Focus | Status |
 |:--|:--|:--|:--|
 | [15](day-15) | Aug 18 | **Checkpoint 3** — official ETS PowerPrep full-length, real timing | Complete |
-| [16](day-16) | Aug 19 | Dress rehearsal review: **RC, multi-blank Text Completion (never actually drilled), Quant pacing/double-checking, essay proofreading** — the four things Checkpoint 3 surfaced directly + 1 extra timed essay (moved from Day 14, Hour 2) | Not started |
-| [17](day-17) | Aug 20 | Light review: **combined-decks vocab review** (Decks 1-3, requested after Day 13 — spaced review goes combined, new-deck introduction stays isolated), AWA template refresh, confidence practice + 1 extra timed essay (Hour 2) | Not started |
+| [16](day-16) | Aug 19 | Dress rehearsal review: **RC, multi-blank Text Completion (never actually drilled), Quant pacing/double-checking, essay proofreading** — the four things Checkpoint 3 surfaced directly + 1 extra timed essay (moved from Day 14, Hour 2) | Complete |
+| [17](day-17) | Aug 20 | Light review: **combined-decks vocab review** (Decks 1-3, requested after Day 13 — spaced review goes combined, new-deck introduction stays isolated), AWA template refresh, confidence practice. **No 4th essay rep** — AWA is already at/above target (~5 vs. 4.5+) after 3 clean reps; that time goes to V/Q instead, since those are the areas still 1pt short | Not started |
 | [18](day-18) | Aug 21 | Final light warm-up (10-15 easy/medium mixed questions) — no new content | Not started |
 | — | Aug 22 | [Exam day](exam-day) — logistics, not a study day | — |
 
 **Vocab track:** daily from Day 4 onward (~15-20 words/day), building toward
 exam day. Progress and specific word lists live on each day's page, not
-duplicated here. **AWA:** 4 timed Issue essay reps total (Days 8, 13, 14,
-17) — all the same task type, since the GRE has only tested Analyze an
+duplicated here. **AWA:** 3 timed Issue essay reps (Days 8, 13, 16 — Day 14's
+was skipped for time, Day 17's dropped once AWA reached ~5 against a 4.5+
+target) — all the same task type, since the GRE has only tested Analyze an
 Issue since its September 2023 redesign (Analyze an Argument was removed).
-Essay structure is template-muscle-memory and responds well to reps
-regardless.
+The Day 16 essay was the first of the three free of typos/misspellings,
+after both earlier ones had at least one — the dedicated proofreading
+work held.

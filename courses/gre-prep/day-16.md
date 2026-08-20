@@ -297,6 +297,59 @@ window catch something real, or come up empty?
 
 ## Log
 
-_Filled in after grading: RC, multi-blank TC, Quant, proofreading drill,
-and essay verdict — plus whether the flag-and-review pacing fix actually
-worked._
+**Aug 20, 2026 — Graded.**
+
+- **RC:** 3/4. **Multi-blank TC:** 5/6. **Quant timed set:** 10/10 — but
+  self-reported as "a bit too easy," nothing hard enough to genuinely
+  test the flag-and-review structure. That fix is built and rehearsed,
+  but **not yet actually stress-tested** — worth staying alert to it on
+  Day 18 or the real exam, not assuming it's proven.
+
+**Proofreading drill: 5 of 6 found** (pursue, choosing, their, than,
+altogether). **The 6th:** "Many institutions claim that they value
+innovation above all else, **however** their actual policies often
+discourage..." — a comma splice. "However" is joining two complete
+sentences here, so a comma alone isn't enough; it needs a semicolon
+before it, or a period and a new sentence. This is a different error
+*category* from the five you caught (grammar/punctuation structure, not
+spelling/word-choice) — worth adding to the mental scan list alongside
+there/their/then-than, since it's a real pattern in academic writing
+generally, not just this drill.
+
+**Essay — the proofreading fix visibly worked:** no clear typo or
+misspelling anywhere in this essay — the first of four essays this
+course without one. That's a direct, concrete result of today's
+dedicated proofread window and the targeted-scan approach, not a
+coincidence.
+
+**Two structural notes for next time, though:**
+- **Intro restates the claim almost verbatim** ("Governments should
+  invest more heavily in preventing problems...") rather than paraphrasing
+  it, and drops the *qualified* thesis that Day 15's essay nailed ("may
+  be true in some cases") — this one just asserts the position flatly.
+  Also: the "1. ... 2. ..." numbered list embedded in a sentence reads
+  informally for AWA's register — write the two reasons as prose.
+- **Concreteness stepped back slightly** — the pandemic and bridge
+  examples are reasoned and clear, but more generic-hypothetical
+  ("imagine if a government...") than Day 15's specifically detailed
+  scenarios. Still clearly better than Day 13's most abstract stretch,
+  just not quite Day 15's level.
+- **Complexity paragraph is genuinely strong again** — raising the
+  "what if the problem never happens" counterargument yourself, unprompted,
+  is real self-aware complexity, not just following the template's
+  instruction to include one.
+
+**On your multi-blank question — good self-diagnosis, and here's the
+fix:** don't let blank (i)'s answer anchor blank (ii). Read the **whole
+sentence first** for its overall logical shape (what's the contrast,
+cause-effect, or continuation signal doing across the *entire* sentence,
+not just near one blank), then predict each blank from **its own local
+context clues**, independently. Only after both predictions are made,
+check that they cohere — and if they don't, don't automatically adjust
+blank (ii) to match blank (i); re-check both against the sentence's
+actual signal words, since either one could be the one that's off.
+
+**Verdict: PASS.** Real, measurable win on proofreading; multi-blank TC
+strategy question shows the self-monitoring this whole course has been
+building toward; Quant pacing fix is built but still unproven under
+genuine difficulty.
