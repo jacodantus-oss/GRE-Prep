@@ -72,8 +72,8 @@ needs section-length practice to train, which short drills can't provide.
 
 | Day | Date | Focus | Status |
 |:--|:--|:--|:--|
-| [15](day-15) | Aug 18 | **Checkpoint 3** — official ETS PowerPrep full-length, real timing | Not started |
-| [16](day-16) | Aug 19 | Dress rehearsal review: targeted fixes only, on what actually showed up + 1 extra timed essay (moved from Day 14, Hour 2) | Not started |
+| [15](day-15) | Aug 18 | **Checkpoint 3** — official ETS PowerPrep full-length, real timing | Complete |
+| [16](day-16) | Aug 19 | Dress rehearsal review: **RC, multi-blank Text Completion (never actually drilled), Quant pacing/double-checking, essay proofreading** — the four things Checkpoint 3 surfaced directly + 1 extra timed essay (moved from Day 14, Hour 2) | Not started |
 | [17](day-17) | Aug 20 | Light review: **combined-decks vocab review** (Decks 1-3, requested after Day 13 — spaced review goes combined, new-deck introduction stays isolated), AWA template refresh, confidence practice + 1 extra timed essay (Hour 2) | Not started |
 | [18](day-18) | Aug 21 | Final light warm-up (10-15 easy/medium mixed questions) — no new content | Not started |
 | — | Aug 22 | [Exam day](exam-day) — logistics, not a study day | — |
