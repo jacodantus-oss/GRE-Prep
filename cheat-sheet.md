@@ -10,7 +10,7 @@ section or a practice set — the full reasoning, traps, and worked examples
 live on the day page each one came from (linked below); this page is just
 the "don't forget this exists" version.
 
-**Last updated:** through Day 14 (Aug 17). Updated the same day any new
+**Last updated:** through Day 16 (Aug 19). Updated the same day any new
 day introduces a new strategy — check back as the course continues.
 
 ---
@@ -74,10 +74,11 @@ The GRE Quant section uses five formats, not just standard multiple-choice:
 
 ## Verbal
 
-### Text Completion — [Day 4](courses/gre-prep/day-04)
+### Text Completion — [Day 4](courses/gre-prep/day-04) · [Day 16](courses/gre-prep/day-16)
 - Predict your own word for the blank *before* looking at the answer choices.
 - Signal words set the direction: **contrast** (however, although, despite) vs. **continuation** (moreover, likewise) vs. **cause-effect** (because, thus).
 - Don't know the word? Use prefixes/roots to gauge positive/negative charge, eliminate by polarity, and note that GRE-correct answers skew formal over casual.
+- **Multi-blank (2-3 blanks):** solve each blank from its own local context first — don't let one blank's options bias the other. Every blank must be correct for credit, same all-or-nothing rule as single-blank.
 
 ### Sentence Equivalence — [Day 5](courses/gre-prep/day-05) · [Day 11](courses/gre-prep/day-11)
 - Scan the six choices for synonym **pairs** before checking fit.
