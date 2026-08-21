@@ -260,5 +260,28 @@ heading into Day 18 and the exam?
 
 ## Log
 
-_Filled in after grading: combined vocab score, outline notes, and
-Verbal/Quant confidence-practice results._
+**Aug 21, 2026 — Graded.**
+
+- **Combined vocab (Decks 1-3):** 15/15 — clean sweep across all three
+  decks together. A couple of specific definitions had faded, but you
+  reasoned your way to the right answer via context/roots rather than
+  raw recall — exactly the more durable skill.
+- **Quant (MC, QC, Numeric):** 3/3, 1/1, 2/2 — perfect across every
+  format. **TC:** 3/3. **SE:** not logged — grab that score when you can,
+  though nothing here suggests a concern.
+- **Outline exercise — a real, useful preference surfaced:** you'd rather
+  develop the counterargument *after* writing the full body, once the
+  argument is fully laid out, than pre-plan it in the outline phase. This
+  is a legitimate way to work — some people genuinely see an argument's
+  weak point more clearly once it's fully stated, not before. One risk
+  worth knowing: deferring it means the hardest paragraph to write (the
+  complexity one) gets tackled at the point in the essay where you have
+  the least time left, which is exactly your recurring pressure point.
+  If you want a light hedge without abandoning the preference: jot a
+  one-phrase placeholder for the *direction* of the counter during the
+  outline (not the full argument) — just enough that you're not starting
+  from zero when you get there.
+
+**Verdict: PASS.** Cleanest day of the sprint — every logged score
+perfect. Heading into Day 18 in the strongest position of the whole
+course.
