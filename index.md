@@ -33,7 +33,7 @@ Every module here is built around that diagnosis. Full detail: [How It Works](ho
 
 | Course | Modules | Status | Progress |
 |:-------|:--------|:-------|:---------|
-| [GRE Sprint](courses/gre-prep/) | 18 days | In progress | 17/18 |
+| [GRE Sprint](courses/gre-prep/) | 18 days | Complete — exam tomorrow | 18/18 |
 
 **Pacing:** ~1 hour/day for Days 1-3, ~2 hours/day from Day 4 onward — the
 extra hour is practice volume (daily vocab, section-length timed drills),

@@ -223,5 +223,16 @@ Today just confirms everything still works. Tomorrow is the exam.
 
 ## Log
 
-_Filled in after grading, if there's anything worth logging — otherwise
-this is the last page before exam day._
+**Aug 21, 2026 — Graded. Final entry before the exam.**
+
+- **Quant:** 6/6, QC 1/1, Numeric 2/2, Multiple-Answer 1/1 — every Quant
+  format clean. **Verbal:** TC 2/3, SE 2/2, RC 3/3.
+- Eighteen days, three checkpoints, one confirmed platform bug, one
+  removed essay type caught and fixed, two new question formats built
+  from scratch mid-course, and a combined V+Q trajectory of
+  **311 → 316 → 318** — landing 1 point off each individual section
+  target on the most accurate predictor available, four days before
+  test day.
+
+**Verdict: Ready.** Nothing left to teach here that hasn't already been
+taught, checked, and re-tested. Good luck tomorrow.

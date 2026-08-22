@@ -7,7 +7,7 @@ permalink: /courses/gre-prep/
 
 # GRE Sprint
 
-**Status:** In progress · **Started:** August 4, 2026 · **Exam:** August 22, 2026
+**Status:** Complete — exam tomorrow · **Started:** August 4, 2026 · **Exam:** August 22, 2026
 
 18 study days to close a 9-14 point gap on Verbal+Quant (311 → 320-325) and a
 1.0-point gap on AWA (3.5 → 4.5+), for a GRE that only two of ten PhD programs
@@ -75,7 +75,7 @@ needs section-length practice to train, which short drills can't provide.
 | [15](day-15) | Aug 18 | **Checkpoint 3** — official ETS PowerPrep full-length, real timing | Complete |
 | [16](day-16) | Aug 19 | Dress rehearsal review: **RC, multi-blank Text Completion (never actually drilled), Quant pacing/double-checking, essay proofreading** — the four things Checkpoint 3 surfaced directly + 1 extra timed essay (moved from Day 14, Hour 2) | Complete |
 | [17](day-17) | Aug 20 | Light review: **combined-decks vocab review** (Decks 1-3, requested after Day 13 — spaced review goes combined, new-deck introduction stays isolated), AWA template refresh, confidence practice. **No 4th essay rep** — AWA is already at/above target (~5 vs. 4.5+) after 3 clean reps; that time goes to V/Q instead, since those are the areas still 1pt short | Complete |
-| [18](day-18) | Aug 21 | Final light warm-up (10-15 easy/medium mixed questions) — no new content | Not started |
+| [18](day-18) | Aug 21 | Final light warm-up (10-15 easy/medium mixed questions) — no new content | Complete |
 | — | Aug 22 | [Exam day](exam-day) — logistics, not a study day | — |
 
 **Vocab track:** daily from Day 4 onward (~15-20 words/day), building toward

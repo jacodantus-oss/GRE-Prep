@@ -267,8 +267,8 @@ heading into Day 18 and the exam?
   reasoned your way to the right answer via context/roots rather than
   raw recall — exactly the more durable skill.
 - **Quant (MC, QC, Numeric):** 3/3, 1/1, 2/2 — perfect across every
-  format. **TC:** 3/3. **SE:** not logged — grab that score when you can,
-  though nothing here suggests a concern.
+  format. **TC:** 3/3. **SE:** 3/3, logged after the fact — clean sweep
+  confirmed across every section of the day.
 - **Outline exercise — a real, useful preference surfaced:** you'd rather
   develop the counterargument *after* writing the full body, once the
   argument is fully laid out, than pre-plan it in the outline phase. This
